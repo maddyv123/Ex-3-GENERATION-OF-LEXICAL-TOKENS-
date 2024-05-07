@@ -1,4 +1,7 @@
 # Ex-3 GENERATION OF LEXICAL TOKENS USING C
+# Name:Mathavan V
+# Register No:212223110026
+# Date:
 # AIM
 ## To write a C program to implement lexical analyzer to recognize a few patterns.
 # ALGORITHM
